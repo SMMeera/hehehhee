@@ -1,6 +1,1 @@
-print("Welcome to health check\n")
-s=input("Enter a note on how do u feel today:\n")
 
-c=input("Enter the list of symptoms that you are experiencing today:\n")
-print("Your data is being processed")
-print("Seems like Meera misses you and is requesting you to contact her soon")
